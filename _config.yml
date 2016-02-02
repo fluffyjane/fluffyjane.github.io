@@ -5,8 +5,8 @@ locale: en_US
 description: Siberian girl travelling the world.
 logo: site-logo4.png
 search: true
-# url: http://fluffyjane.github.io
-url: http://localhost:4000
+url: http://fluffyjane.github.io
+# url: http://localhost:4000
 
 # Jekyll configuration
 
