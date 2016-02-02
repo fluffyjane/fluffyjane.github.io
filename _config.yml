@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Personal blog
 locale: en_US
-description: Describe your website here.
+description: Siberian girl travelling the world.
 logo: site-logo4.png
 search: true
 # url: http://fluffyjane.github.io
