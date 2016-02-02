@@ -3,11 +3,9 @@ layout: post
 title: "A Post with Images"
 excerpt: "Examples and code for displaying images in posts."
 categories: articles
-<<<<<<< HEAD:_posts/travel/2013-05-22-sample-post-images.md
 tags: [sample-post, images, test, asdas, asdasd, asdasdasd]
 categories: travel
-=======
->>>>>>> origin/master:_posts/articles/2013-05-22-sample-post-images.md
+origin/master:_posts/articles/2013-05-22-sample-post-images.md
 tags: [sample-post, images, test]
 comments: true
 share: true
