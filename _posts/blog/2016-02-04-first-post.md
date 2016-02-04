@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "мой первый пост"
-modified:
+title: мой первый пост
+modified: null
 categories: blog
 excerpt: ""
-tags: [travel, switzerland]
-image:
-  feature:
-date: 2014-08-08T15:39:55-04:00
+tags: 
+  - travel
+  - switzerland
+image: 
+  feature: null
+date: {}
+published: true
 ---
+
 
 ## Путешествие по Швейцарии 2014
 
@@ -20,3 +24,4 @@ date: 2014-08-08T15:39:55-04:00
 	</a>
 	<figcaption>Подпись к фото.</figcaption>
 </figure>
+![]({{site.baseurl}}/images/site-logo.png)
