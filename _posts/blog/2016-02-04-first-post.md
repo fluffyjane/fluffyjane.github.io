@@ -24,4 +24,3 @@ published: true
 	</a>
 	<figcaption>Подпись к фото.</figcaption>
 </figure>
-![]({{site.baseurl}}/images/site-logo.png)
