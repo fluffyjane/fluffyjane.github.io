@@ -4,12 +4,10 @@ title: мой первый пост
 modified: null
 categories: blog
 excerpt: ""
-tags: 
-  - travel
-  - switzerland
+tags: [travel, switzerland]
 image: 
   feature: null
-date: {}
+date: 2014-08-08T15:39:55-04:00
 published: true
 ---
 
